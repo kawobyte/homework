@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+.block, .block2, .block3, .block4, .block5, .block6, .block7, .block8, .block9, .block10, .block11 {
+    max-width:300px;
+    max-height: 200px;
+    padding: 20px;
+    margin: 8px;
+    background-color: rgb(192, 157, 31);
+    border-radius: 25px;
+    box-shadow: inset 0px 0px 15px black;
+    font-family: 'Montserrat',sans-serif;
+    display: inline-block;
+}
+.general {
+    border: 2px solid #000;
+    border-top-left-radius: 25px;
+    height: 530px;
+    overflow-y: scroll;
+    background-color: rgb(141, 83, 98);
+}

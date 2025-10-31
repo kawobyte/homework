@@ -192,7 +192,7 @@ body {
 
 .footer-desc a {
     display: inline-block;
-    margin: 15px;
+    margin: 0 0 15px;
 }
 
 .footer-column {
@@ -216,4 +216,5 @@ body {
 
 .footer-item {
     margin-bottom: 10px;
+
 }

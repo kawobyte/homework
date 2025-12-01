@@ -1,0 +1,32 @@
+.calendar {
+    margin: 0 auto;
+    width: 300px;
+}
+
+table {
+    border-spacing: 0;
+    width: 300px;
+}
+
+th,td,caption {
+    border:  1px solid gray;
+}
+
+.month {
+    font-size: 22px;
+    font-weight: 600;
+    font-family: sans-serif;
+}
+
+.days {
+    font-size: 20px;
+}
+
+.red {
+    color: red;
+}
+
+tr {
+    font-size: 20px;
+    font-weight: 500;
+}

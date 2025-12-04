@@ -1,0 +1,87 @@
+.form {
+    box-sizing: border-box;
+}
+
+.fieldset {
+    max-width: 300px;
+    border: 3px solid black;
+    border-radius: 20px;
+}
+
+.label {
+    display: block;
+}
+
+.personal__data {
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+.personal__name {
+    font-size: 20px;
+    margin: 5px 0;
+}
+
+.input__name {
+    border-radius: 5px;
+    width: 250px;
+    height: 20px;
+    margin-bottom: 10px;
+}
+
+.personal__age {
+    font-size: 20px;
+    margin: 5px 0;
+}
+
+.input__age {
+    border-radius: 5px;
+    width: 250px;
+    height: 20px;
+    margin-bottom: 10px;
+}
+
+.personal__number {
+    font-size: 20px;
+    margin: 5px 0;
+}
+
+.input__number {
+    border-radius: 5px;
+    width: 250px;
+    height: 20px;
+    margin-bottom: 10px;
+}
+
+.personal__email {
+    font-size: 20px;
+    margin: 5px 0;
+}
+
+.input__email {
+    border-radius: 5px;
+    width: 250px;
+    height: 20px;
+    margin-bottom: 10px;
+}
+
+.message {
+    font-size: 20px;
+    margin: 5px 0;
+}
+.message__area {
+    resize: vertical;
+    max-height: 150px;
+    border-radius: 5px;
+    width: 250px;
+    height: 50px;
+    margin-bottom: 10px;
+}
+
+.button {
+    display: block;
+    margin-top: 10px;
+    border-radius: 5px;
+    border: 1px solid black;
+}
